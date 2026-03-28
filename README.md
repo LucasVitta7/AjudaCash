@@ -10,6 +10,7 @@ npm run dev
 ```
 
 O app abre em `http://localhost:5173`.
+No AjudaCash atual, o servidor local roda em `http://127.0.0.1:3000`.
 
 ## Modos de funcionamento
 
